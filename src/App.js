@@ -1,11 +1,12 @@
+import EmployeeTable from './EmployeesTable';
+import AddForm from './AddForm';
 import './style.css';
 
 function App() {
   return (
-    <div className="app">
-      <header className="app__header">
-        Hello World
-      </header>
+    <div className="wrapper">
+      <EmployeeTable />
+      <AddForm />
     </div>
   );
 }
