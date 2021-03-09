@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "value": "--- chose position ---"
+    },
+    {
+        "id": 1,
+        "value": "Cloud Architect"
+    },
+    {
+        "id": 2,
+        "value": "Cloud Consultant"
+    },
+    {
+        "id": 3,
+        "value": "Frontend developer(JS, React)"
+    },
+    {
+        "id": 4,
+        "value": ".NET Developer"
+    }
+]
